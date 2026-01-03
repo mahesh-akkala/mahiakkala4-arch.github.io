@@ -17,6 +17,20 @@
 }
  .menu{
     display:flex;
-    
  }
- 
+ .menu li{
+   list-style-type:none;
+   margin-right:30px;
+ }
+ .menu li a{
+   text-decoration: none;
+   color:black;
+ }
+ .image{
+   display:flex;
+   
+ }
+ .para{
+   background-color: beige;
+   font-size: large;
+ }
