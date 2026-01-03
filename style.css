@@ -26,11 +26,22 @@
    text-decoration: none;
    color:black;
  }
- .image{
+ #home{
    display:flex;
    
  }
  .para{
    background-color: beige;
    font-size: large;
+ }
+ .box{
+   background-color: aqua;
+   margin:10px;
+   padding:5px;
+   border:2px skyblue solid;
+   border-radius: 20px;
+ }
+ #services{
+   display:flex;
+   gap:150px;
  }
