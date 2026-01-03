@@ -1,15 +1,22 @@
  
 .header{
      background-color:aqua;
+     justify-content: space-between;
+            display:flex;
             
  }
  .foot{
      background-color:antiquewhite;
+
  }
  .head{
     background-color:yellowgreen;
  }
- *{
-    margin:0px;
+*{
+   margin:0px;
+}
+ .menu{
+    display:flex;
+    
  }
  
